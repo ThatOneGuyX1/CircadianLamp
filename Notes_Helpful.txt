@@ -1,0 +1,2 @@
+Link for PWM amp circuit
+https://electronics.stackexchange.com/questions/296369/amplifying-a-pwm-signal-with-an-op-amp-is-the-slew-rate-a-problem
